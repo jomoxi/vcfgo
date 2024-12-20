@@ -1,4 +1,4 @@
-module github.com/brentp/vcfgo
+module github.com/jomoxi/vcfgo
 
 go 1.22.5
 
