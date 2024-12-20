@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/brentp/irelate/interfaces"
-	vcfgo "github.com/brentp/vcfgo"
+	vcfgo "github.com/jomoxi/vcfgo"
 
 	. "gopkg.in/check.v1"
 )
