@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/brentp/vcfgo"
+	"github.com/jomoxi/vcfgo"
 )
 
 func main() {
